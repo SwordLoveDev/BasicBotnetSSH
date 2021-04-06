@@ -10,5 +10,9 @@
 <img src="https://cdn.discordapp.com/attachments/758355912426782762/828720241206362122/unknown.png" alt="" />
 <img src="https://cdn.discordapp.com/attachments/758355912426782762/828720417924972554/unknown.png" alt="" />
 
+# Example of use (DDOS)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wuyhQ3a4jEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I clearly specify that I am in no way responsible for your actions and that I offer this tool developed by me for educational purposes only.
 
