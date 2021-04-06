@@ -12,7 +12,7 @@
 
 # Example of use (DDOS)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wuyhQ3a4jEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wuyhQ3a4jEo/0.jpg)](https://www.youtube.com/watch?v=wuyhQ3a4jEo)
 
 I clearly specify that I am in no way responsible for your actions and that I offer this tool developed by me for educational purposes only.
 
