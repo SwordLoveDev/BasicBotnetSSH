@@ -12,7 +12,7 @@
 
 # Example of use (DDOS)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wuyhQ3a4jEo/0.jpg)](https://www.youtube.com/watch?v=wuyhQ3a4jEo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LCcQNFhFX9E/0.jpg)](https://www.youtube.com/watch?v=LCcQNFhFX9E)
 
 I clearly specify that I am in no way responsible for your actions and that I offer this tool developed by me for educational purposes only.
 
